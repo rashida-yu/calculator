@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+
+/* #results {
+    display:none;
+  } */
+
+body { 
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', Geneva, Verdana, sans-serif;
+    background: radial-gradient(rgb(216, 170, 192) rgb(216, 144, 179));
+
+    
+}
+form {
+    
+    background-color: rgb(206, 217, 238);
+
+}
+
+
+h1 {
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    border-bottom: 0.1em dashed brown;
+    margin-bottom: 25px;
+}
+
+.container {
+
+    color: rgb(44, 7, 78);
+}
+
+.form-group {
+    color: rgb(13, 18, 48);
+}
+
+label {
+    font-size: 1.2em;
+
+}
+.input-group-addon {
+    font-size: 1.1em;
+    color: rgb(17, 30, 105); 
+}
+h5 {
+    font-size: 1.4em;
+}
+
+
+
